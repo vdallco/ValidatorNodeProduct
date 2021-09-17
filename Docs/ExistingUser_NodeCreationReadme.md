@@ -17,10 +17,11 @@
 </p>
 
 **Note**: **`Before you perform Step 3 make sure you have followed and completed the`**<br />
-[Step 1: Creation of Cluster using Cloudformation Template.](https://docs.google.com/document/d/1R3Z9DjxuUowWQ_NrszVAU0Xvwng6U2cn4Vh8nQoQ0ik/edit?usp=sharing)<br/>
-[Step 2: Creation of the Wallet and Importing Keys.](https://github.com/launchnodes/ValidatorNodeProduct/tree/main/Scripts)
+[Step 1: Creation of Cluster using Cloudformation Template.](https://github.com/launchnodes/ValidatorNodeProduct/blob/main/Docs/ExistingUser_ClusterCreationReadme.md)<br/>
+[Step 2: Deposit Mainnet Ethereum From Launchpad.](https://github.com/launchnodes/ValidatorNodeProduct/blob/main/Docs/DepositEthereumReadme.md)<br/>
+[Step 3: Creation of the Wallet and Importing Keys.](https://github.com/launchnodes/ValidatorNodeProduct/blob/main/Scripts/README.md)
 
-## Step 3: [Node Creation configuration and Deployment using Cloudformation Templates.](https://docs.google.com/document/d/1R3Z9DjxuUowWQ_NrszVAU0Xvwng6U2cn4Vh8nQoQ0ik/edit?usp=sharing)
+## Step 4: Service Creation configuration and Deployment using Cloudformation Templates.
 
  **`To see the video reference of below instructions please visit`** [here](https://drive.google.com/file/d/15poQL9EUo1L_HrETHz11PQ6KuqunD5cl/view?usp=sharing)
 

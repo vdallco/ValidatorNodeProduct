@@ -25,7 +25,7 @@
 
 
 
-## Deposit Mainnet Ethereum From Launchpad
+## Step 2: Deposit Mainnet Ethereum From Launchpad
 
 
 1. Visit [Launchpad](https://launchpad.ethereum.org/).
@@ -49,3 +49,4 @@
   <br/>&emsp;**`Note: Please Double check, Triple check the deposit contract address for your ethereum deposit. `**
 15. After this section you will receive a notification regarding the successful transaction on Ethereum Mainnet.
 16. If your transaction is successful you are in a queue for validator assignment. You will be assigned as a validator soon. 
+

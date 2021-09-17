@@ -16,11 +16,12 @@
   </p>
 </p>
 
- **Note**: **`Before you perform this step make sure you have followed and completed the` [Creation of Cluster using Cloudformation Template.](https://docs.google.com/document/d/1gvCvYPKeZ3xUk9R1qXl8ALTo8PTOdgxSnCmob8Yh2RA/edit?usp=sharing)**
+ **Note**: **`Before you perform this step make sure you have followed and completed the`** <br/>
+[Step 1: Creation of Cluster using Cloudformation Template.](https://github.com/launchnodes/ValidatorNodeProduct/blob/main/Docs/ClusterCreationReadme.md)<br/>
+[Step 2: Deposit Mainnet Ethereum From Launchpad.](https://github.com/launchnodes/ValidatorNodeProduct/blob/main/Docs/DepositEthereumReadme.md)<br/>
 
 
-## Step 2: [Creation of the Wallet and Importing Keys.](https://docs.google.com/document/d/1gvCvYPKeZ3xUk9R1qXl8ALTo8PTOdgxSnCmob8Yh2RA/edit?usp=sharing)
-
+## Step 3: Creation of the Wallet and Importing Keys.
 
 <h3 align="center">
   For Mac / Ubuntu Users
@@ -70,13 +71,14 @@
 **`To see the video reference of below instructions please visit`** [here](https://drive.google.com/file/d/1yQ_zfZdl8OH2C4OUDt3XWnnA9-EHoqeC/view?usp=sharing)
 <h4>Running Connection.bat:</h4>
 
-1. Open your Windows Powershell terminal[💻](#-terminal-), enter “&” and then Drag and drop the Connection.bat file into the terminal and press enter.
-   ```sh
-   https://raw.githubusercontent.com/launchnodes/ValidatorNodeProduct/main/Scripts/WindowsScript.bat
-   ```
-2. In the “Enter .pem file path”,  Drag and drop the .pem file into the terminal and press enter.
-3. In the “Enter the Validator key zip file path”, and Drag and drop the validator_keys.zip file into the terminal and press enter.
-4. In the “Enter AWS public IPv4 and external DNS hostname: ”, enter your public IPv4 and external DNS hostname. For example,
+1. Download and unzip the WindowsScript.bat.zip folder, you'll get WindowsScript.bat file.
+  ```sh
+  https://downgit.github.io/#/home?url=https://github.com/launchnodes/ValidatorNodeProduct/blob/main/Scripts/WindowsScript.bat
+  ```
+2. Open your Windows Powershell terminal[💻](#-terminal-), enter “&” and then Drag and drop the WindowsScript.bat file into the terminal and press enter.
+3. In the “Enter .pem file path”,  Drag and drop the .pem file into the terminal and press enter.
+4. In the “Enter the Validator key zip file path”, and Drag and drop the validator_keys.zip file into the terminal and press enter.
+5. In the “Enter AWS public IPv4 and external DNS hostname: ”, enter your public IPv4 and external DNS hostname. For example,
    ```sh
    ec2-user@ec2-xxx-x-xxx-xx.compute-1.amazonaws.com
    ```
@@ -123,6 +125,3 @@
 
  `Now, Your wallet has been created and the keys have been imported to it.`
  
- `After Succesfully creating the wallet and importing keys you can now move on to the` [Node Creation configuration and Deployment using Cloudformation Templates.](https://docs.google.com/document/d/1gvCvYPKeZ3xUk9R1qXl8ALTo8PTOdgxSnCmob8Yh2RA/edit?usp=sharing)
- 
-
